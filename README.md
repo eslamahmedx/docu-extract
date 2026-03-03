@@ -132,9 +132,8 @@ VITE_API_TIMEOUT=400000
 
 ## 🧑‍💻 Author
 
-Developed by **Eslam Ahmed**  
-Front-End Developer  
-React | TypeScript | API Integration  
+Developed as part of an internship task.
+
 
 ---
 
